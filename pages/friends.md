@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Friends
   order: 0
 ---
-## Here's some of my favourite projects.
+## Here's some of my favourite projects I've done.
 
 ### Project 1
 
