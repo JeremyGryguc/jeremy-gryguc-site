@@ -1,18 +1,20 @@
 ---
 layout: layouts/home.njk
-title: Friends
-date: 2020-20-10T00:00:00.000Z
+title: Work
+date: 2021-08-10T00:00:00.000Z
 permalink: /friends/index.html
 eleventyNavigation:
   key: Friends
   order: 0
 ---
-## I like hanging out with friends
+## Here's some of my favourite projects.
 
-# H1
+### Project 1
 
-## h2 
 
-```
-code
-```
+
+### Project 2
+
+
+
+### Project 3
