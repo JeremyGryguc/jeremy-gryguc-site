@@ -6,8 +6,8 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Hi, I'm Jeremy.
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+This is a website to showcase my work and writings. If you were wondering how to pronounce my last name, it's "*grick adge*". It's Russian, in case you were also wondering.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+I'm a digital and brand strategist currently based in Perth, Western Australia. I help brands find their meaning and purpose in the world, solving business and marketing problems along the way.
